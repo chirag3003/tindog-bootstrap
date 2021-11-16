@@ -8,7 +8,7 @@
 
 👤 **Chirag Bhalotia ( Apex Web )**
 
-* Website: https://apexweb.me
+* Website: https://chirag.codes
 * Github: [@chirag3003](https://github.com/chirag3003)
 
 ## Show your support
